@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from linepy import *
+from LINEPY import *
 from akad.ttypes import Message
 from akad.ttypes import ContentType as Type
 from akad.ttypes import ChatRoomAnnouncementContents
